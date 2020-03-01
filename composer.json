@@ -1,0 +1,9 @@
+{
+    "name": "ahmat/cuaca-widget",
+    "description": "widget untuk menampilkan cuaca di suatu kota",
+    "require": {
+        "nesbot/carbon": "^2.30",
+        "yidas/phpspreadsheet-helper": "^1.3",
+        "tcdent/php-restclient": "^0.1.7"
+    }
+}
