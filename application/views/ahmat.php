@@ -20,7 +20,7 @@
 		  	Tgl :<?php echo $tgl; ?>,
 		  	Jam :<?php echo $jam; ?>,
 		  	Cuaca :<?php echo $item->cuaca; ?>,
-		  	Suhu :<?php echo $item->tempC; ?>°C</li>
+		  	Suhu :<?php echo $item->tempC; ?>°C nnnnnn</li>
 		<?php }  ?>
 	</ul>
 </body>
